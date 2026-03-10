@@ -20,10 +20,10 @@ Complete end-to-end analytics solution on Microsoft Fabric. 20,000 orders ($29.3
 
 ### Page 1: Executive
 ![Executive](screenshots/Executive.png)
-### Page 2: Customers!
-[Customers](screenshots/Customers.png)
-### Page 3: Products!
-[Products](screenshots/Products.png)
+### Page 2: Customers
+![Customers](screenshots/Customers.png)
+### Page 3: Products
+![Products](screenshots/Products.png)
 
 ## Key Metrics 
 - Revenue: $29.3M | Orders: 20K | Avg Order: ~$1,579 
