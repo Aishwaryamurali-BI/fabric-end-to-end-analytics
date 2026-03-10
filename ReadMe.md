@@ -28,11 +28,13 @@ Complete end-to-end analytics solution on Microsoft Fabric. 20,000 orders ($29.3
 ## Key Metrics 
 - Revenue: $29.3M | Orders: 20K | Avg Order: ~$1,579 
 - 5 departments, 15 stores, 5 sales channels 
-- 14 promotional campaigns analyzed  
+- 14 promotional campaigns analyzed
+
 ## Tools & Technologies 
 - Microsoft Fabric (Lakehouse, Pipelines, Dataflows Gen2, OneLake) 
 - Power BI (semantic model, DAX, multi-page reports) 
-- Star schema with snowflake extension  
+- Star schema with snowflake extension
+  
 ## Documentation 
 - [Design Decisions](docs/pipeline-design-decisions.md) 
 - [DAX Measures](docs/dax-measures-catalog.md)
