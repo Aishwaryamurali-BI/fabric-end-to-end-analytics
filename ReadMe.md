@@ -18,9 +18,12 @@ Complete end-to-end analytics solution on Microsoft Fabric. 20,000 orders ($29.3
 ### 3. Star Schema![Schema](diagrams/star-schema.png)  
 ### 4. Power BI Reports
 
-### Page 1: Executive![Executive](screenshots/report-executive.png)
-### Page 2: Customers![Customers](screenshots/dashboard-page2.png)
-### Page 3: Products![Products](screenshots/dashboard-page2.png)
+### Page 1: Executive
+![Executive](screenshots/Executive.png)
+### Page 2: Customers!
+[Customers](screenshots/Customers.png)
+### Page 3: Products!
+[Products](screenshots/Products.png)
 
 ## Key Metrics 
 - Revenue: $29.3M | Orders: 20K | Avg Order: ~$1,579 
