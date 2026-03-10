@@ -1,0 +1,15 @@
+promotion_id,promotion_name,start_date,end_date,discount_percent,target_department,promotion_type
+PROMO-001,New Year Sale,2023-01-01,2023-01-15,0.15,Electronics,Seasonal
+PROMO-002,Valentine's Special,2023-02-10,2023-02-14,0.1,Clothing,Seasonal
+PROMO-003,Spring Clearance,2023-03-20,2023-04-05,0.25,Home & Kitchen,Clearance
+PROMO-004,Summer Blowout,2023-06-15,2023-07-04,0.2,Sports & Outdoors,Seasonal
+PROMO-005,Back to School,2023-08-01,2023-08-31,0.15,Office Supplies,Seasonal
+PROMO-006,Black Friday,2023-11-24,2023-11-27,0.3,Electronics,Seasonal
+PROMO-007,Holiday Sale,2023-12-15,2023-12-31,0.2,Clothing,Seasonal
+PROMO-008,Winter Clearance,2024-01-02,2024-01-20,0.25,Home & Kitchen,Clearance
+PROMO-009,Spring Forward,2024-03-15,2024-04-01,0.15,Sports & Outdoors,Seasonal
+PROMO-010,Summer Savings,2024-06-01,2024-06-30,0.2,Electronics,Seasonal
+PROMO-011,Fall Preview,2024-09-01,2024-09-15,0.1,Clothing,Seasonal
+PROMO-012,Black Friday 2024,2024-11-29,2024-12-02,0.3,Electronics,Seasonal
+PROMO-013,Year End Sale,2024-12-20,2024-12-31,0.25,Home & Kitchen,Seasonal
+PROMO-014,No Promotion,2023-01-01,2024-12-31,0.0,All,None

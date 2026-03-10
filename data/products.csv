@@ -1,0 +1,295 @@
+product_id,product_name,department,category,brand,unit_price,unit_cost,weight_lbs,supplier_lead_days,reorder_point,is_active
+PROD-00001,DigiMax Smartphones Basic 1,Electronics,Smartphones,TechVolt,613.68,259.38,12.5,28,97,0
+PROD-00002,TechVolt Smartphones Pro 2,Electronics,Smartphones,PixelCore,571.98,259.8,6.5,23,53,0
+PROD-00003,NovaPro Smartphones Lite 3,Electronics,Smartphones,NovaPro,229.26,131.07,7.4,3,18,1
+PROD-00004,ByteWave Smartphones Max 4,Electronics,Smartphones,TechVolt,45.77,15.58,6.4,20,98,1
+PROD-00005,DigiMax Smartphones Max 5,Electronics,Smartphones,PixelCore,638.65,356.47,21.4,7,27,1
+PROD-00006,DigiMax Smartphones Plus 6,Electronics,Smartphones,DigiMax,227.05,120.21,17.2,29,84,1
+PROD-00007,ByteWave Smartphones Basic 7,Electronics,Smartphones,NovaPro,874.14,442.34,14.5,29,49,1
+PROD-00008,PixelCore Smartphones Plus 8,Electronics,Smartphones,TechVolt,555.79,267.91,21.9,18,97,1
+PROD-00009,TechVolt Smartphones Lite 9,Electronics,Smartphones,TechVolt,954.26,490.56,10.1,29,70,1
+PROD-00010,NovaPro Laptops Pro 10,Electronics,Laptops,ByteWave,1141.41,414.62,4.8,12,26,1
+PROD-00011,PixelCore Laptops Pro 11,Electronics,Laptops,PixelCore,669.86,262.79,20.4,18,62,1
+PROD-00012,DigiMax Laptops Plus 12,Electronics,Laptops,TechVolt,394.11,198.27,21.9,9,48,1
+PROD-00013,PixelCore Laptops Ultra 13,Electronics,Laptops,ByteWave,1198.62,577.73,17.7,14,21,1
+PROD-00014,TechVolt Laptops Pro 14,Electronics,Laptops,TechVolt,748.19,321.23,12.2,12,69,1
+PROD-00015,TechVolt Laptops Pro 15,Electronics,Laptops,TechVolt,171.2,89.91,18.7,16,54,1
+PROD-00016,ByteWave Laptops Max 16,Electronics,Laptops,DigiMax,604.72,339.13,16.7,11,44,1
+PROD-00017,DigiMax Laptops Plus 17,Electronics,Laptops,DigiMax,764.27,410.57,8.4,13,12,1
+PROD-00018,ByteWave Laptops Basic 18,Electronics,Laptops,NovaPro,756.14,275.85,11.2,27,50,1
+PROD-00019,NovaPro Laptops Basic 19,Electronics,Laptops,NovaPro,1234.83,637.66,17.8,16,29,1
+PROD-00020,DigiMax Tablets Basic 20,Electronics,Tablets,DigiMax,1360.0,649.68,1.9,11,83,0
+PROD-00021,ByteWave Tablets Max 21,Electronics,Tablets,PixelCore,1068.73,334.76,1.6,25,33,1
+PROD-00022,NovaPro Tablets Pro 22,Electronics,Tablets,TechVolt,836.93,497.49,4.0,14,31,0
+PROD-00023,ByteWave Tablets Max 23,Electronics,Tablets,PixelCore,323.38,170.99,1.3,29,13,1
+PROD-00024,DigiMax Tablets Basic 24,Electronics,Tablets,PixelCore,834.83,447.11,13.4,5,76,1
+PROD-00025,PixelCore Tablets Pro 25,Electronics,Tablets,DigiMax,140.38,55.5,11.3,3,88,1
+PROD-00026,DigiMax Tablets Pro 26,Electronics,Tablets,DigiMax,1347.03,699.4,16.1,30,59,1
+PROD-00027,DigiMax Tablets Max 27,Electronics,Tablets,TechVolt,1332.82,553.03,20.3,3,23,1
+PROD-00028,PixelCore Tablets Basic 28,Electronics,Tablets,TechVolt,710.44,221.24,13.5,16,82,1
+PROD-00029,PixelCore Tablets Plus 29,Electronics,Tablets,PixelCore,881.32,400.69,0.2,23,48,1
+PROD-00030,PixelCore Tablets Plus 30,Electronics,Tablets,PixelCore,944.9,523.09,12.2,27,71,0
+PROD-00031,PixelCore Tablets Ultra 31,Electronics,Tablets,PixelCore,1231.36,732.72,16.6,7,41,0
+PROD-00032,PixelCore Tablets Max 32,Electronics,Tablets,DigiMax,438.08,260.76,23.4,6,85,1
+PROD-00033,PixelCore Tablets Ultra 33,Electronics,Tablets,NovaPro,781.9,314.04,15.4,23,35,1
+PROD-00034,TechVolt Tablets Ultra 34,Electronics,Tablets,ByteWave,905.99,447.82,23.6,7,56,1
+PROD-00035,DigiMax Headphones Basic 35,Electronics,Headphones,NovaPro,394.84,224.16,16.0,25,95,1
+PROD-00036,ByteWave Headphones Pro 36,Electronics,Headphones,PixelCore,224.93,126.33,15.7,29,67,1
+PROD-00037,TechVolt Headphones Pro 37,Electronics,Headphones,TechVolt,647.41,337.89,13.1,29,99,1
+PROD-00038,NovaPro Headphones Pro 38,Electronics,Headphones,PixelCore,764.58,336.44,23.6,14,21,1
+PROD-00039,NovaPro Headphones Lite 39,Electronics,Headphones,TechVolt,214.91,73.07,21.0,7,89,1
+PROD-00040,ByteWave Headphones Max 40,Electronics,Headphones,NovaPro,377.21,204.55,5.1,18,36,1
+PROD-00041,DigiMax Headphones Pro 41,Electronics,Headphones,NovaPro,484.64,192.47,2.6,11,45,0
+PROD-00042,DigiMax Headphones Max 42,Electronics,Headphones,TechVolt,1482.7,858.14,6.2,14,85,1
+PROD-00043,PixelCore Headphones Max 43,Electronics,Headphones,PixelCore,98.11,29.86,20.2,22,36,1
+PROD-00044,NovaPro Headphones Lite 44,Electronics,Headphones,NovaPro,454.36,186.4,5.9,4,32,1
+PROD-00045,DigiMax Headphones Plus 45,Electronics,Headphones,ByteWave,967.26,320.94,14.6,7,61,1
+PROD-00046,NovaPro Headphones Lite 46,Electronics,Headphones,NovaPro,1449.0,682.3,13.1,10,72,1
+PROD-00047,NovaPro Watches Max 47,Electronics,Smart Watches,ByteWave,812.62,355.95,21.1,23,82,1
+PROD-00048,DigiMax Watches Ultra 48,Electronics,Smart Watches,ByteWave,794.03,305.33,19.6,19,55,1
+PROD-00049,DigiMax Watches Plus 49,Electronics,Smart Watches,ByteWave,485.12,186.48,18.8,9,64,1
+PROD-00050,DigiMax Watches Lite 50,Electronics,Smart Watches,ByteWave,1291.19,673.5,13.8,4,89,1
+PROD-00051,ByteWave Watches Basic 51,Electronics,Smart Watches,TechVolt,359.46,196.58,2.9,5,82,1
+PROD-00052,NovaPro Watches Max 52,Electronics,Smart Watches,PixelCore,828.96,420.24,11.5,20,88,1
+PROD-00053,ByteWave Watches Ultra 53,Electronics,Smart Watches,TechVolt,130.73,69.21,20.2,19,76,1
+PROD-00054,ByteWave Watches Plus 54,Electronics,Smart Watches,TechVolt,897.7,376.36,8.0,22,60,1
+PROD-00055,TechVolt Watches Pro 55,Electronics,Smart Watches,NovaPro,1326.91,459.31,15.5,11,62,1
+PROD-00056,PixelCore Watches Plus 56,Electronics,Smart Watches,PixelCore,894.84,385.4,17.3,26,42,1
+PROD-00057,TechVolt Watches Ultra 57,Electronics,Smart Watches,ByteWave,1399.93,717.97,20.1,24,23,1
+PROD-00058,PixelCore Watches Basic 58,Electronics,Smart Watches,PixelCore,640.17,329.58,1.7,21,27,1
+PROD-00059,DigiMax Watches Plus 59,Electronics,Smart Watches,ByteWave,175.01,85.81,4.7,15,38,1
+PROD-00060,TechVolt Watches Plus 60,Electronics,Smart Watches,TechVolt,1270.79,599.67,7.8,10,35,0
+PROD-00061,PixelCore Watches Plus 61,Electronics,Smart Watches,DigiMax,1422.48,685.89,15.5,15,31,1
+PROD-00062,NovaPro Cameras Max 62,Electronics,Cameras,PixelCore,461.37,204.9,18.5,25,85,1
+PROD-00063,ByteWave Cameras Max 63,Electronics,Cameras,TechVolt,886.62,455.95,7.0,29,11,1
+PROD-00064,DigiMax Cameras Ultra 64,Electronics,Cameras,TechVolt,1116.41,378.22,9.8,23,78,1
+PROD-00065,NovaPro Cameras Plus 65,Electronics,Cameras,PixelCore,637.07,347.9,21.2,27,59,1
+PROD-00066,ByteWave Cameras Lite 66,Electronics,Cameras,TechVolt,798.14,379.97,15.2,7,30,1
+PROD-00067,PixelCore Cameras Max 67,Electronics,Cameras,ByteWave,1381.01,747.36,12.5,20,80,1
+PROD-00068,PixelCore Cameras Max 68,Electronics,Cameras,ByteWave,1370.52,431.94,3.2,12,26,1
+PROD-00069,HomeNest Cookware Max 69,Home & Kitchen,Cookware,KitchenPro,721.37,336.53,2.7,3,28,1
+PROD-00070,CleanEdge Cookware Max 70,Home & Kitchen,Cookware,CleanEdge,339.92,196.29,14.4,20,48,1
+PROD-00071,SpaceSmart Cookware Ultra 71,Home & Kitchen,Cookware,KitchenPro,403.84,122.71,22.3,13,94,1
+PROD-00072,HomeNest Cookware Basic 72,Home & Kitchen,Cookware,HomeNest,631.55,191.76,21.1,3,18,1
+PROD-00073,CleanEdge Cookware Lite 73,Home & Kitchen,Cookware,CleanEdge,687.3,314.36,10.4,19,14,1
+PROD-00074,CozyLiving Cookware Pro 74,Home & Kitchen,Cookware,CozyLiving,522.27,260.33,9.3,18,69,1
+PROD-00075,HomeNest Cookware Basic 75,Home & Kitchen,Cookware,SpaceSmart,330.52,174.4,4.9,24,91,1
+PROD-00076,KitchenPro Cookware Basic 76,Home & Kitchen,Cookware,CozyLiving,435.87,135.44,5.0,4,20,0
+PROD-00077,SpaceSmart Cookware Ultra 77,Home & Kitchen,Cookware,CozyLiving,723.09,233.99,19.2,10,44,1
+PROD-00078,SpaceSmart Cookware Basic 78,Home & Kitchen,Cookware,CozyLiving,792.39,397.97,11.4,9,21,1
+PROD-00079,HomeNest Cookware Basic 79,Home & Kitchen,Cookware,CleanEdge,286.68,142.69,23.8,10,30,1
+PROD-00080,CleanEdge Cookware Max 80,Home & Kitchen,Cookware,CozyLiving,421.78,136.83,5.2,23,93,1
+PROD-00081,KitchenPro Cookware Ultra 81,Home & Kitchen,Cookware,HomeNest,248.92,98.5,4.8,28,70,1
+PROD-00082,CleanEdge Cookware Lite 82,Home & Kitchen,Cookware,CleanEdge,755.91,392.1,8.8,7,14,1
+PROD-00083,CozyLiving Appliances Max 83,Home & Kitchen,Small Appliances,SpaceSmart,586.48,243.76,16.5,9,54,1
+PROD-00084,CleanEdge Appliances Ultra 84,Home & Kitchen,Small Appliances,HomeNest,373.65,214.04,5.5,21,40,1
+PROD-00085,HomeNest Appliances Pro 85,Home & Kitchen,Small Appliances,CleanEdge,550.76,275.7,2.3,26,39,1
+PROD-00086,KitchenPro Appliances Ultra 86,Home & Kitchen,Small Appliances,KitchenPro,169.28,89.93,7.2,7,91,1
+PROD-00087,KitchenPro Appliances Pro 87,Home & Kitchen,Small Appliances,SpaceSmart,430.15,171.0,13.8,18,61,1
+PROD-00088,SpaceSmart Appliances Lite 88,Home & Kitchen,Small Appliances,SpaceSmart,587.81,234.82,15.7,21,82,0
+PROD-00089,HomeNest Appliances Plus 89,Home & Kitchen,Small Appliances,KitchenPro,692.8,260.86,6.4,17,38,1
+PROD-00090,KitchenPro Appliances Lite 90,Home & Kitchen,Small Appliances,CozyLiving,625.54,370.66,12.2,18,62,1
+PROD-00091,SpaceSmart Appliances Ultra 91,Home & Kitchen,Small Appliances,CleanEdge,36.48,20.98,0.5,15,72,0
+PROD-00092,SpaceSmart Appliances Pro 92,Home & Kitchen,Small Appliances,CleanEdge,68.57,34.37,13.6,9,49,1
+PROD-00093,HomeNest Furniture Ultra 93,Home & Kitchen,Furniture,SpaceSmart,73.93,35.65,6.6,23,58,1
+PROD-00094,CozyLiving Furniture Ultra 94,Home & Kitchen,Furniture,CleanEdge,503.58,174.28,13.8,11,68,1
+PROD-00095,KitchenPro Furniture Ultra 95,Home & Kitchen,Furniture,SpaceSmart,588.25,307.59,22.2,4,40,1
+PROD-00096,CleanEdge Furniture Lite 96,Home & Kitchen,Furniture,HomeNest,404.26,134.58,10.7,8,36,1
+PROD-00097,SpaceSmart Furniture Max 97,Home & Kitchen,Furniture,CleanEdge,259.6,143.23,5.6,13,97,1
+PROD-00098,HomeNest Furniture Pro 98,Home & Kitchen,Furniture,CozyLiving,589.96,308.61,8.6,29,40,0
+PROD-00099,KitchenPro Furniture Ultra 99,Home & Kitchen,Furniture,SpaceSmart,667.53,286.66,24.4,3,22,1
+PROD-00100,HomeNest Furniture Basic 100,Home & Kitchen,Furniture,KitchenPro,91.93,48.08,23.3,8,17,1
+PROD-00101,SpaceSmart Bedding Ultra 101,Home & Kitchen,Bedding,CozyLiving,781.36,324.55,13.1,22,72,1
+PROD-00102,KitchenPro Bedding Ultra 102,Home & Kitchen,Bedding,CozyLiving,235.33,103.58,8.4,23,33,1
+PROD-00103,CleanEdge Bedding Plus 103,Home & Kitchen,Bedding,SpaceSmart,529.16,301.48,22.5,7,38,0
+PROD-00104,SpaceSmart Bedding Max 104,Home & Kitchen,Bedding,KitchenPro,463.83,175.37,13.3,8,33,1
+PROD-00105,SpaceSmart Bedding Max 105,Home & Kitchen,Bedding,SpaceSmart,532.17,281.86,22.7,8,72,1
+PROD-00106,HomeNest Bedding Ultra 106,Home & Kitchen,Bedding,SpaceSmart,633.28,281.01,12.5,14,96,1
+PROD-00107,KitchenPro Bedding Basic 107,Home & Kitchen,Bedding,HomeNest,536.66,223.04,14.3,24,50,1
+PROD-00108,CleanEdge Bedding Plus 108,Home & Kitchen,Bedding,HomeNest,457.62,257.76,8.2,7,36,1
+PROD-00109,SpaceSmart Bedding Ultra 109,Home & Kitchen,Bedding,SpaceSmart,247.84,111.26,9.6,11,76,1
+PROD-00110,CleanEdge Bedding Lite 110,Home & Kitchen,Bedding,SpaceSmart,309.7,118.68,19.9,13,44,1
+PROD-00111,HomeNest Bedding Max 111,Home & Kitchen,Bedding,CleanEdge,303.33,103.16,5.9,4,55,1
+PROD-00112,CleanEdge Bedding Pro 112,Home & Kitchen,Bedding,CozyLiving,339.38,196.45,2.3,29,25,1
+PROD-00113,CozyLiving Storage Lite 113,Home & Kitchen,Storage,CozyLiving,109.09,35.8,16.6,4,35,1
+PROD-00114,SpaceSmart Storage Lite 114,Home & Kitchen,Storage,CleanEdge,49.19,22.81,9.7,9,38,1
+PROD-00115,HomeNest Storage Lite 115,Home & Kitchen,Storage,CozyLiving,260.81,98.32,5.8,19,53,1
+PROD-00116,HomeNest Storage Basic 116,Home & Kitchen,Storage,KitchenPro,480.37,286.5,10.8,28,30,1
+PROD-00117,CleanEdge Storage Pro 117,Home & Kitchen,Storage,CleanEdge,235.25,139.4,2.9,20,86,1
+PROD-00118,KitchenPro Storage Basic 118,Home & Kitchen,Storage,CleanEdge,196.53,79.47,15.5,27,60,1
+PROD-00119,CozyLiving Storage Basic 119,Home & Kitchen,Storage,CozyLiving,171.4,66.14,22.8,18,51,1
+PROD-00120,KitchenPro Storage Plus 120,Home & Kitchen,Storage,CozyLiving,619.52,364.17,7.5,27,85,1
+PROD-00121,SpaceSmart Storage Basic 121,Home & Kitchen,Storage,HomeNest,280.96,160.04,0.8,19,71,1
+PROD-00122,KitchenPro Storage Max 122,Home & Kitchen,Storage,SpaceSmart,32.2,11.66,23.0,25,98,1
+PROD-00123,CleanEdge Storage Lite 123,Home & Kitchen,Storage,SpaceSmart,389.63,153.56,24.8,29,98,1
+PROD-00124,KitchenPro Storage Max 124,Home & Kitchen,Storage,CleanEdge,746.82,423.48,7.6,5,97,1
+PROD-00125,KitchenPro Storage Lite 125,Home & Kitchen,Storage,SpaceSmart,432.47,131.03,17.9,15,23,0
+PROD-00126,CozyLiving Storage Pro 126,Home & Kitchen,Storage,KitchenPro,165.83,88.25,3.2,5,96,1
+PROD-00127,ComfortFit Casual Basic 127,Clothing,Men's Casual,ActivePeak,171.53,62.85,21.6,8,99,1
+PROD-00128,ComfortFit Casual Plus 128,Clothing,Men's Casual,StyleCraft,230.57,131.26,12.7,9,47,1
+PROD-00129,ActivePeak Casual Ultra 129,Clothing,Men's Casual,TrailStep,23.75,13.16,23.2,27,50,1
+PROD-00130,TrailStep Casual Pro 130,Clothing,Men's Casual,ComfortFit,204.36,91.97,12.4,27,10,1
+PROD-00131,ActivePeak Casual Plus 131,Clothing,Men's Casual,UrbanThread,217.81,120.84,11.7,5,55,1
+PROD-00132,TrailStep Casual Basic 132,Clothing,Men's Casual,ComfortFit,51.47,20.96,19.2,29,36,1
+PROD-00133,ComfortFit Casual Lite 133,Clothing,Men's Casual,ComfortFit,160.71,86.08,4.1,5,59,0
+PROD-00134,StyleCraft Casual Plus 134,Clothing,Men's Casual,UrbanThread,176.9,74.44,0.2,13,90,1
+PROD-00135,StyleCraft Casual Basic 135,Clothing,Men's Casual,UrbanThread,113.46,67.75,14.7,18,86,1
+PROD-00136,ComfortFit Casual Plus 136,Clothing,Men's Casual,TrailStep,59.48,30.3,18.0,6,41,1
+PROD-00137,ActivePeak Casual Lite 137,Clothing,Men's Casual,UrbanThread,60.26,30.73,12.6,7,81,1
+PROD-00138,ActivePeak Casual Plus 138,Clothing,Men's Casual,ActivePeak,165.55,88.92,9.9,9,87,1
+PROD-00139,TrailStep Casual Plus 139,Clothing,Men's Casual,ComfortFit,220.29,96.62,16.9,28,50,1
+PROD-00140,TrailStep Casual Pro 140,Clothing,Men's Casual,StyleCraft,236.1,112.27,2.1,18,100,1
+PROD-00141,UrbanThread Casual Basic 141,Clothing,Women's Casual,UrbanThread,23.63,11.46,12.0,20,97,1
+PROD-00142,StyleCraft Casual Lite 142,Clothing,Women's Casual,StyleCraft,191.73,77.29,10.3,17,71,1
+PROD-00143,TrailStep Casual Ultra 143,Clothing,Women's Casual,ActivePeak,150.6,84.52,16.7,21,12,1
+PROD-00144,TrailStep Casual Plus 144,Clothing,Women's Casual,StyleCraft,159.18,68.27,23.3,19,74,1
+PROD-00145,UrbanThread Casual Pro 145,Clothing,Women's Casual,ComfortFit,210.08,93.48,5.6,18,65,1
+PROD-00146,ActivePeak Casual Ultra 146,Clothing,Women's Casual,UrbanThread,229.56,103.05,3.7,15,83,1
+PROD-00147,UrbanThread Casual Ultra 147,Clothing,Women's Casual,UrbanThread,25.68,10.86,20.5,28,74,1
+PROD-00148,ActivePeak Casual Max 148,Clothing,Women's Casual,ComfortFit,145.89,84.8,0.8,18,77,1
+PROD-00149,StyleCraft Wear Max 149,Clothing,Athletic Wear,UrbanThread,138.93,59.53,17.8,15,34,1
+PROD-00150,StyleCraft Wear Basic 150,Clothing,Athletic Wear,TrailStep,52.48,29.6,13.4,18,30,0
+PROD-00151,ActivePeak Wear Plus 151,Clothing,Athletic Wear,ComfortFit,74.64,43.88,11.7,30,44,1
+PROD-00152,ComfortFit Wear Max 152,Clothing,Athletic Wear,StyleCraft,161.22,84.75,19.7,5,88,1
+PROD-00153,UrbanThread Wear Basic 153,Clothing,Athletic Wear,ComfortFit,85.23,31.41,15.9,24,90,1
+PROD-00154,UrbanThread Wear Plus 154,Clothing,Athletic Wear,TrailStep,192.64,96.9,18.1,12,90,1
+PROD-00155,TrailStep Wear Pro 155,Clothing,Athletic Wear,ActivePeak,190.74,96.71,4.3,19,22,1
+PROD-00156,ComfortFit Wear Max 156,Clothing,Athletic Wear,StyleCraft,177.9,78.6,17.7,27,27,1
+PROD-00157,StyleCraft Wear Max 157,Clothing,Athletic Wear,ActivePeak,99.19,41.62,6.1,15,83,1
+PROD-00158,StyleCraft Wear Max 158,Clothing,Athletic Wear,StyleCraft,212.62,117.97,20.9,14,53,1
+PROD-00159,UrbanThread Wear Max 159,Clothing,Athletic Wear,ComfortFit,135.94,74.17,13.6,9,81,1
+PROD-00160,TrailStep Outerwear Max 160,Clothing,Outerwear,StyleCraft,144.11,43.64,1.0,24,93,1
+PROD-00161,StyleCraft Outerwear Plus 161,Clothing,Outerwear,UrbanThread,67.62,40.27,11.6,9,59,1
+PROD-00162,TrailStep Outerwear Lite 162,Clothing,Outerwear,ActivePeak,176.48,91.03,24.1,6,19,1
+PROD-00163,StyleCraft Outerwear Lite 163,Clothing,Outerwear,StyleCraft,186.23,90.69,0.9,13,75,1
+PROD-00164,UrbanThread Outerwear Ultra 164,Clothing,Outerwear,ActivePeak,229.42,120.75,15.4,20,34,1
+PROD-00165,ActivePeak Outerwear Max 165,Clothing,Outerwear,TrailStep,147.82,65.89,23.6,10,56,1
+PROD-00166,StyleCraft Outerwear Plus 166,Clothing,Outerwear,StyleCraft,127.23,62.94,14.7,28,34,1
+PROD-00167,StyleCraft Outerwear Pro 167,Clothing,Outerwear,StyleCraft,193.35,86.93,12.2,22,53,0
+PROD-00168,StyleCraft Outerwear Plus 168,Clothing,Outerwear,UrbanThread,184.98,58.58,11.2,26,13,1
+PROD-00169,StyleCraft Outerwear Ultra 169,Clothing,Outerwear,UrbanThread,222.41,72.33,15.4,6,37,1
+PROD-00170,UrbanThread Outerwear Max 170,Clothing,Outerwear,TrailStep,88.58,41.82,21.6,25,70,1
+PROD-00171,TrailStep Footwear Lite 171,Clothing,Footwear,StyleCraft,237.36,125.98,18.8,3,94,1
+PROD-00172,UrbanThread Footwear Basic 172,Clothing,Footwear,UrbanThread,230.63,119.58,10.0,5,82,0
+PROD-00173,UrbanThread Footwear Plus 173,Clothing,Footwear,ActivePeak,200.32,98.0,24.7,24,22,0
+PROD-00174,ComfortFit Footwear Basic 174,Clothing,Footwear,ActivePeak,56.74,22.52,6.6,22,72,1
+PROD-00175,UrbanThread Footwear Basic 175,Clothing,Footwear,ComfortFit,174.34,85.76,22.3,19,72,1
+PROD-00176,TrailStep Footwear Lite 176,Clothing,Footwear,UrbanThread,112.58,47.04,0.3,11,96,1
+PROD-00177,StyleCraft Footwear Lite 177,Clothing,Footwear,StyleCraft,97.89,39.82,4.7,9,60,1
+PROD-00178,ComfortFit Footwear Plus 178,Clothing,Footwear,StyleCraft,208.75,100.65,4.6,5,20,1
+PROD-00179,PeakGear Equipment Lite 179,Sports & Outdoors,Fitness Equipment,TrailBlazer,172.49,84.41,13.3,12,76,1
+PROD-00180,TrailBlazer Equipment Max 180,Sports & Outdoors,Fitness Equipment,GameDay,544.24,187.9,4.1,20,31,1
+PROD-00181,TrailBlazer Equipment Lite 181,Sports & Outdoors,Fitness Equipment,GameDay,283.2,107.4,24.0,15,14,1
+PROD-00182,TrailBlazer Equipment Pro 182,Sports & Outdoors,Fitness Equipment,PeakGear,362.91,129.07,8.1,22,68,1
+PROD-00183,GameDay Equipment Plus 183,Sports & Outdoors,Fitness Equipment,TrailBlazer,126.27,48.32,19.9,26,35,1
+PROD-00184,FitForce Equipment Lite 184,Sports & Outdoors,Fitness Equipment,PeakGear,263.35,152.28,16.0,10,85,1
+PROD-00185,FitForce Equipment Lite 185,Sports & Outdoors,Fitness Equipment,AquaPro,296.8,95.51,16.5,27,72,1
+PROD-00186,GameDay Equipment Max 186,Sports & Outdoors,Fitness Equipment,TrailBlazer,358.07,213.66,12.5,26,72,1
+PROD-00187,FitForce Equipment Pro 187,Sports & Outdoors,Fitness Equipment,GameDay,65.32,32.33,2.5,8,100,1
+PROD-00188,FitForce Equipment Plus 188,Sports & Outdoors,Fitness Equipment,PeakGear,488.08,282.78,19.3,25,79,1
+PROD-00189,TrailBlazer Equipment Pro 189,Sports & Outdoors,Fitness Equipment,AquaPro,64.12,32.65,15.0,14,15,0
+PROD-00190,FitForce Equipment Lite 190,Sports & Outdoors,Fitness Equipment,GameDay,146.54,62.22,23.8,27,73,1
+PROD-00191,AquaPro Gear Plus 191,Sports & Outdoors,Camping Gear,TrailBlazer,66.08,26.6,19.6,26,98,1
+PROD-00192,GameDay Gear Plus 192,Sports & Outdoors,Camping Gear,GameDay,126.91,65.21,15.6,5,99,1
+PROD-00193,GameDay Gear Lite 193,Sports & Outdoors,Camping Gear,AquaPro,214.82,101.26,8.7,26,46,1
+PROD-00194,GameDay Gear Pro 194,Sports & Outdoors,Camping Gear,PeakGear,552.71,296.15,10.5,23,77,1
+PROD-00195,AquaPro Gear Max 195,Sports & Outdoors,Camping Gear,GameDay,49.05,21.24,24.2,13,75,1
+PROD-00196,TrailBlazer Gear Plus 196,Sports & Outdoors,Camping Gear,PeakGear,191.18,95.58,16.6,12,52,1
+PROD-00197,GameDay Gear Pro 197,Sports & Outdoors,Camping Gear,PeakGear,390.2,222.6,7.3,25,29,1
+PROD-00198,AquaPro Cycling Ultra 198,Sports & Outdoors,Cycling,TrailBlazer,98.35,53.79,21.1,27,92,1
+PROD-00199,FitForce Cycling Basic 199,Sports & Outdoors,Cycling,GameDay,189.01,98.41,20.1,23,53,1
+PROD-00200,GameDay Cycling Plus 200,Sports & Outdoors,Cycling,GameDay,14.88,7.7,24.6,19,67,1
+PROD-00201,AquaPro Cycling Lite 201,Sports & Outdoors,Cycling,FitForce,135.68,43.38,12.6,14,21,1
+PROD-00202,PeakGear Cycling Pro 202,Sports & Outdoors,Cycling,GameDay,573.63,286.32,13.8,8,68,1
+PROD-00203,TrailBlazer Cycling Basic 203,Sports & Outdoors,Cycling,FitForce,575.07,214.65,23.8,23,32,1
+PROD-00204,AquaPro Cycling Basic 204,Sports & Outdoors,Cycling,FitForce,478.36,279.73,24.4,5,69,1
+PROD-00205,GameDay Cycling Max 205,Sports & Outdoors,Cycling,FitForce,538.18,234.99,20.8,25,55,1
+PROD-00206,FitForce Cycling Basic 206,Sports & Outdoors,Cycling,AquaPro,164.13,68.04,10.9,18,40,1
+PROD-00207,FitForce Cycling Ultra 207,Sports & Outdoors,Cycling,GameDay,456.1,270.31,3.0,13,37,1
+PROD-00208,TrailBlazer Cycling Basic 208,Sports & Outdoors,Cycling,GameDay,450.58,235.4,0.8,14,67,1
+PROD-00209,PeakGear Cycling Ultra 209,Sports & Outdoors,Cycling,AquaPro,503.84,173.11,1.0,26,37,1
+PROD-00210,PeakGear Cycling Basic 210,Sports & Outdoors,Cycling,TrailBlazer,277.62,121.68,3.4,11,90,1
+PROD-00211,GameDay Cycling Plus 211,Sports & Outdoors,Cycling,AquaPro,581.93,304.22,16.1,4,11,1
+PROD-00212,PeakGear Sports Max 212,Sports & Outdoors,Water Sports,GameDay,495.16,259.56,5.2,3,46,1
+PROD-00213,PeakGear Sports Pro 213,Sports & Outdoors,Water Sports,PeakGear,136.68,69.92,10.9,6,54,1
+PROD-00214,GameDay Sports Plus 214,Sports & Outdoors,Water Sports,FitForce,272.45,136.15,6.4,21,44,1
+PROD-00215,AquaPro Sports Ultra 215,Sports & Outdoors,Water Sports,AquaPro,407.0,187.35,3.0,22,72,1
+PROD-00216,FitForce Sports Pro 216,Sports & Outdoors,Water Sports,FitForce,457.15,233.28,18.8,30,79,1
+PROD-00217,FitForce Sports Pro 217,Sports & Outdoors,Water Sports,FitForce,359.18,185.91,19.5,29,71,1
+PROD-00218,GameDay Sports Pro 218,Sports & Outdoors,Water Sports,AquaPro,291.38,104.88,9.1,28,34,1
+PROD-00219,GameDay Sports Pro 219,Sports & Outdoors,Water Sports,AquaPro,147.31,45.12,16.9,25,75,1
+PROD-00220,TrailBlazer Sports Lite 220,Sports & Outdoors,Water Sports,PeakGear,238.27,105.58,2.1,25,92,1
+PROD-00221,PeakGear Sports Max 221,Sports & Outdoors,Water Sports,GameDay,77.89,25.76,1.5,27,51,1
+PROD-00222,AquaPro Sports Ultra 222,Sports & Outdoors,Team Sports,PeakGear,202.75,97.77,21.4,13,19,1
+PROD-00223,AquaPro Sports Max 223,Sports & Outdoors,Team Sports,TrailBlazer,188.78,76.17,5.1,23,69,1
+PROD-00224,TrailBlazer Sports Max 224,Sports & Outdoors,Team Sports,PeakGear,145.63,52.8,24.5,9,80,1
+PROD-00225,PeakGear Sports Pro 225,Sports & Outdoors,Team Sports,AquaPro,167.92,63.68,2.9,21,44,1
+PROD-00226,AquaPro Sports Lite 226,Sports & Outdoors,Team Sports,PeakGear,35.05,16.8,23.6,6,31,1
+PROD-00227,PeakGear Sports Basic 227,Sports & Outdoors,Team Sports,FitForce,430.55,175.06,1.5,23,33,1
+PROD-00228,FitForce Sports Plus 228,Sports & Outdoors,Team Sports,GameDay,288.67,121.65,2.6,14,83,1
+PROD-00229,GameDay Sports Basic 229,Sports & Outdoors,Team Sports,TrailBlazer,315.69,118.37,4.9,4,82,1
+PROD-00230,AquaPro Sports Max 230,Sports & Outdoors,Team Sports,GameDay,36.8,14.58,6.7,30,45,1
+PROD-00231,TrailBlazer Sports Pro 231,Sports & Outdoors,Team Sports,AquaPro,519.7,170.42,7.2,22,66,1
+PROD-00232,TrailBlazer Sports Plus 232,Sports & Outdoors,Team Sports,AquaPro,14.11,7.05,7.3,19,54,1
+PROD-00233,AquaPro Sports Plus 233,Sports & Outdoors,Team Sports,GameDay,284.71,127.52,12.5,30,24,1
+PROD-00234,GameDay Sports Ultra 234,Sports & Outdoors,Team Sports,FitForce,238.92,94.64,2.5,5,16,1
+PROD-00235,FitForce Sports Pro 235,Sports & Outdoors,Team Sports,PeakGear,524.61,158.3,9.6,11,51,1
+PROD-00236,TechLink Products Ultra 236,Office Supplies,Paper Products,NeatSpace,14.02,4.5,6.8,16,54,1
+PROD-00237,OfficePro Products Pro 237,Office Supplies,Paper Products,DeskMaster,12.62,4.91,2.8,12,54,1
+PROD-00238,WriteRight Products Plus 238,Office Supplies,Paper Products,WriteRight,20.18,7.77,7.6,21,55,1
+PROD-00239,NeatSpace Products Pro 239,Office Supplies,Paper Products,DeskMaster,119.2,49.73,23.4,26,18,1
+PROD-00240,TechLink Products Lite 240,Office Supplies,Paper Products,OfficePro,32.5,14.11,8.3,29,16,1
+PROD-00241,WriteRight Products Max 241,Office Supplies,Paper Products,OfficePro,67.46,32.39,23.1,4,42,1
+PROD-00242,WriteRight Products Ultra 242,Office Supplies,Paper Products,DeskMaster,78.67,41.45,8.5,12,88,1
+PROD-00243,TechLink Products Ultra 243,Office Supplies,Paper Products,TechLink,97.56,54.12,9.8,7,95,1
+PROD-00244,OfficePro Products Ultra 244,Office Supplies,Paper Products,OfficePro,41.65,24.58,23.1,29,14,1
+PROD-00245,DeskMaster Products Max 245,Office Supplies,Paper Products,WriteRight,36.51,13.3,3.3,24,22,1
+PROD-00246,WriteRight Products Max 246,Office Supplies,Paper Products,NeatSpace,131.74,78.06,11.8,11,42,1
+PROD-00247,NeatSpace Products Ultra 247,Office Supplies,Paper Products,DeskMaster,16.31,7.92,10.4,23,81,1
+PROD-00248,DeskMaster Products Pro 248,Office Supplies,Paper Products,TechLink,67.34,21.53,12.3,14,13,1
+PROD-00249,WriteRight Products Basic 249,Office Supplies,Paper Products,NeatSpace,55.69,33.29,1.4,5,58,1
+PROD-00250,WriteRight Products Basic 250,Office Supplies,Paper Products,NeatSpace,125.27,51.74,23.9,13,54,1
+PROD-00251,TechLink Writing Basic 251,Office Supplies,Writing,OfficePro,18.32,6.86,24.7,25,92,1
+PROD-00252,OfficePro Writing Ultra 252,Office Supplies,Writing,NeatSpace,29.83,9.31,10.7,29,35,1
+PROD-00253,NeatSpace Writing Max 253,Office Supplies,Writing,NeatSpace,5.01,1.95,20.3,12,95,1
+PROD-00254,NeatSpace Writing Pro 254,Office Supplies,Writing,WriteRight,25.85,14.41,4.8,25,41,1
+PROD-00255,OfficePro Writing Lite 255,Office Supplies,Writing,DeskMaster,16.21,8.04,20.1,8,69,1
+PROD-00256,DeskMaster Writing Lite 256,Office Supplies,Writing,DeskMaster,148.22,88.1,23.5,28,81,1
+PROD-00257,TechLink Writing Plus 257,Office Supplies,Writing,TechLink,146.21,85.19,12.0,17,48,1
+PROD-00258,DeskMaster Writing Max 258,Office Supplies,Writing,OfficePro,48.44,22.4,21.9,15,55,1
+PROD-00259,OfficePro Accessories Pro 259,Office Supplies,Desk Accessories,OfficePro,96.92,48.32,3.1,11,86,1
+PROD-00260,OfficePro Accessories Max 260,Office Supplies,Desk Accessories,WriteRight,76.29,25.32,23.8,30,100,1
+PROD-00261,OfficePro Accessories Plus 261,Office Supplies,Desk Accessories,NeatSpace,57.78,30.28,18.4,21,42,1
+PROD-00262,DeskMaster Accessories Max 262,Office Supplies,Desk Accessories,DeskMaster,54.26,30.23,15.3,9,75,1
+PROD-00263,TechLink Accessories Ultra 263,Office Supplies,Desk Accessories,NeatSpace,71.53,27.09,17.5,5,99,1
+PROD-00264,TechLink Accessories Basic 264,Office Supplies,Desk Accessories,NeatSpace,30.62,10.16,4.8,4,85,1
+PROD-00265,WriteRight Accessories Lite 265,Office Supplies,Desk Accessories,TechLink,143.9,48.16,12.0,24,74,1
+PROD-00266,WriteRight Accessories Max 266,Office Supplies,Desk Accessories,TechLink,6.22,2.81,4.0,13,44,1
+PROD-00267,WriteRight Accessories Ultra 267,Office Supplies,Desk Accessories,OfficePro,12.62,4.98,12.4,15,98,1
+PROD-00268,WriteRight Accessories Plus 268,Office Supplies,Desk Accessories,OfficePro,46.43,24.43,3.5,17,44,1
+PROD-00269,WriteRight Accessories Ultra 269,Office Supplies,Desk Accessories,OfficePro,127.62,56.32,12.4,20,24,1
+PROD-00270,OfficePro Accessories Pro 270,Office Supplies,Desk Accessories,NeatSpace,14.85,8.34,23.4,4,46,0
+PROD-00271,TechLink Accessories Max 271,Office Supplies,Desk Accessories,NeatSpace,23.37,12.69,19.3,10,33,1
+PROD-00272,TechLink Accessories Max 272,Office Supplies,Desk Accessories,TechLink,36.05,20.79,24.9,24,32,1
+PROD-00273,NeatSpace Accessories Lite 273,Office Supplies,Desk Accessories,OfficePro,51.59,23.01,20.0,29,21,1
+PROD-00274,TechLink Accessories Max 274,Office Supplies,Technology Accessories,DeskMaster,7.84,4.08,21.1,4,36,1
+PROD-00275,TechLink Accessories Plus 275,Office Supplies,Technology Accessories,TechLink,149.85,58.95,6.7,27,61,1
+PROD-00276,WriteRight Accessories Plus 276,Office Supplies,Technology Accessories,TechLink,128.15,70.27,9.9,30,76,1
+PROD-00277,WriteRight Accessories Plus 277,Office Supplies,Technology Accessories,NeatSpace,21.76,9.03,1.5,16,41,1
+PROD-00278,WriteRight Accessories Max 278,Office Supplies,Technology Accessories,OfficePro,86.22,42.03,12.9,23,20,1
+PROD-00279,OfficePro Accessories Ultra 279,Office Supplies,Technology Accessories,OfficePro,74.98,29.96,23.7,23,49,1
+PROD-00280,WriteRight Accessories Pro 280,Office Supplies,Technology Accessories,OfficePro,141.56,55.05,23.3,17,93,1
+PROD-00281,OfficePro Accessories Plus 281,Office Supplies,Technology Accessories,DeskMaster,53.12,20.67,13.4,16,100,1
+PROD-00282,NeatSpace Accessories Max 282,Office Supplies,Technology Accessories,WriteRight,23.94,7.97,0.3,25,39,1
+PROD-00283,WriteRight Accessories Pro 283,Office Supplies,Technology Accessories,TechLink,144.84,79.61,24.4,7,51,1
+PROD-00284,DeskMaster Accessories Max 284,Office Supplies,Technology Accessories,NeatSpace,85.56,27.48,11.3,8,53,1
+PROD-00285,OfficePro Organization Lite 285,Office Supplies,Organization,NeatSpace,116.32,55.6,12.3,19,79,1
+PROD-00286,NeatSpace Organization Max 286,Office Supplies,Organization,WriteRight,120.24,45.54,14.7,21,37,0
+PROD-00287,TechLink Organization Lite 287,Office Supplies,Organization,OfficePro,82.53,38.47,18.9,18,33,1
+PROD-00288,NeatSpace Organization Basic 288,Office Supplies,Organization,DeskMaster,127.9,71.29,15.7,25,97,1
+PROD-00289,WriteRight Organization Basic 289,Office Supplies,Organization,WriteRight,67.73,35.25,22.5,12,88,1
+PROD-00290,DeskMaster Organization Ultra 290,Office Supplies,Organization,DeskMaster,105.36,31.8,14.9,30,92,1
+PROD-00291,TechLink Organization Lite 291,Office Supplies,Organization,DeskMaster,148.9,79.6,11.5,22,49,1
+PROD-00292,TechLink Organization Lite 292,Office Supplies,Organization,WriteRight,139.78,54.37,7.4,24,83,1
+PROD-00293,TechLink Organization Ultra 293,Office Supplies,Organization,TechLink,30.69,11.08,20.2,7,35,1
+PROD-00294,TechLink Organization Max 294,Office Supplies,Organization,TechLink,11.06,4.34,24.1,24,25,1

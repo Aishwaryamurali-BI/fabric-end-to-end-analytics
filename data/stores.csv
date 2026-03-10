@@ -1,0 +1,16 @@
+store_id,store_name,city,state,region,store_size,open_date,manager_name
+STORE-001,Downtown Flagship,New York,NY,Northeast,Large,2017-02-06,Daniel Allen
+STORE-002,Westside Mall,Los Angeles,CA,West,Large,2017-08-27,Anthony Lewis
+STORE-003,Magnificent Mile,Chicago,IL,Midwest,Large,2015-05-14,Carol Miller
+STORE-004,Galleria Store,Houston,TX,South,Medium,2020-06-04,Deborah Martinez
+STORE-005,Desert Ridge,Phoenix,AZ,West,Medium,2017-10-30,Joshua Rodriguez
+STORE-006,Center City,Philadelphia,PA,Northeast,Medium,2019-07-31,Nancy Johnson
+STORE-007,Riverwalk Plaza,San Antonio,TX,South,Small,2020-12-26,Emily Wilson
+STORE-008,Harbor Point,San Diego,CA,West,Medium,2021-08-12,Robert White
+STORE-009,NorthPark,Dallas,TX,South,Large,2017-12-10,Elizabeth Brown
+STORE-010,Domain Location,Austin,TX,South,Medium,2021-10-09,Andrew Jackson
+STORE-011,Town Center,Jacksonville,FL,South,Small,2018-08-04,Donald Miller
+STORE-012,Union Square,San Francisco,CA,West,Large,2018-02-17,Thomas Young
+STORE-013,Pike Place,Seattle,WA,West,Medium,2016-12-05,George Lewis
+STORE-014,Cherry Creek,Denver,CO,West,Medium,2020-05-03,Brian Lewis
+STORE-015,Newbury Street,Boston,MA,Northeast,Medium,2018-02-16,Linda Harris
